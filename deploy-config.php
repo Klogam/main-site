@@ -26,7 +26,7 @@ define('SECRET_ACCESS_TOKEN', 'klogamsite');
  *
  * @var string
  */
-define('REMOTE_REPOSITORY', 'https://github.com/markomarkovic/simple-php-git-deploy.git');
+define('REMOTE_REPOSITORY', 'https://github.com/Klogam/main-site.git');
 /**
  * The branch that's being deployed.
  * Must be present in the remote repository.
@@ -40,7 +40,7 @@ define('BRANCH', 'master');
  *
  * @var string Full path including the trailing slash
  */
-define('TARGET_DIR', '/tmp/simple-php-git-deploy/');
+define('TARGET_DIR', '/var/www/html/');
 /**
  * Whether to delete the files that are not in the repository but are on the
  * local (server) machine.
