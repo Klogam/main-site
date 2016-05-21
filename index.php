@@ -1,5 +1,6 @@
 <head>
 <link rel="stylesheet" type="text/css" href="css/main.css">
+<title> Kasey Maberry</title>
 </head>
 <body>
     <div id="top"><div>
