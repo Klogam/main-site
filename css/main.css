@@ -43,7 +43,7 @@ body {
 }
 #right {
 	float: left;
-	width: 60%;
+	width: 50%;
 	overflow: hidden;
 }
 
@@ -78,4 +78,16 @@ ptitle {
 	line-height: 50px;
 	/*border-right: solid 1px #ffffff;*/
 	cursor: pointer;
+}
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#left a:hover {
+	text-decoration: none;
 }
