@@ -14,7 +14,7 @@
     </div></div>
     <div id="right"><div>
 
-	The only working page on this website is deploy.php which automatically pulls from git on my server whenever I push from my local machine. This script was obtained from https://github.com/markomarkovic/simple-php-git-deploy/
+	This is the first draft. The background was obtained from www.subtlepatterns.com. A script to have the server automatically pull from git was obtained from https://github.com/markomarkovic/simple-php-git-deploy/
 
     </div></div>
 </body>
