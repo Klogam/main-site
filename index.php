@@ -27,7 +27,7 @@
 	After that I knew I wanted to be a computer scientist, and in high school I took two introductory 
 	classes that I really enjoyed, one was for C++ and the other was for Python. I do not really remember much
 	from them. I started attending New Mexico Tech in Fall of 2013, and it will take me a total of 9 semesters to
-	graduate. I currently have a 3.31 GPA and have completed 6 semester. As of right now I do not have a specific preference for what I want to
+	graduate. I currently have a 3.31 GPA and have completed 6 semesters. As of right now I do not have a specific preference for what I want to
 	do once I graduate, however I find lower level programming such as C and Assembly to be incredibly interesting.
 	I also find security to  be interesting. Over the summer I plan on learning about reverse engineering, as
 	I also enjoy reading other source code and trying to figure out how it works. Back when I was making maps in
