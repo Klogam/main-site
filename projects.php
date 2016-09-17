@@ -52,8 +52,7 @@
     <h1>Vulcan Tech Forums</h1>
     <p class="first"> I am currently taking a course on Web Development and will be programming a forum for our final project, which 
     will probably also include a blog, wiki, and news section to make it feature rich. We will use HTML5, SQL, CSS(Most likely something
-     like Bootstrap), JavaScript and Java Servlets. This project will also make my knowledge of each of these technologies, in the Computer 
-     Aided Dispatch center I learned what I needed as I went. 
+     like Bootstrap), JavaScript and Java Servlets. A link will be provided here once we finish or begin working.
     </p>
 	<!--This is the first draft. This page will contain links to all of my projects.-->
 
