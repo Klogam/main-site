@@ -42,19 +42,19 @@
     and paper will not be available in it's current form as it contains everything to replicate what we did. 
     If a player that does not know much about neural networks tries to replicate this so he can use it for that
     system it could provide false positives and innocent players may be banned.  </p>
-    <h1>Future Projects</h1>
-    <p class="first"> My next project will be a website to aid with my the 4-H club my parents are leaders of, and
-    my siblings are in. Each year, the club hosts a goat show to help fund all activities such as crafts during meetings
-    or a trip to an amusement park. For this show, each person has to register their goats so we can create a schedule
-    for the show and when each goat will go in to show. I plan on making a website to allow people to register their animals,
-    and set up the show. Currently, this is done using an excel spreadsheet and as far as I know every other goatshow
-    has the same form of registration. This will be open source, and others may use this website if they wish. I plan on using
-    HTML, CSS, PHP, and SQL for this project.
+    <h1>Computer Aided Dispatch Center</h1>
+    <p class="first"> For my software engineering course, we attempted to create a web-based Computer Aided Dispatch Center to replace
+    currently used systems which are relatively dated technology. The project wasn't completed to what we originally planned for, it
+    was semi-functional but we were a bit too ambitious and took too much time planning. I programmed input forms and tables that 
+    retrieved/pulled/updated information from a SQL database in PHP, and wrote all of the error checking. I learned MySQL, PHP, HTML, 
+    and how to setup Apache, MySQL, phpMyAdmin on a server (These were the technologies also used to create this website).
     </p>
-    <p class="first">After that, I plan on programming something relatively simple programs in the programming languages
-    I am familiar with just to show that I am actually familiar with them. I plan on just making a clone of the
-    program in various languages, so it should all look and behave similarily. It may be something very simple
-    in each language, and then one more difficult program. </p>
+    <h1>Vulcan Tech Forums</h1>
+    <p class="first"> I am currently taking a course on Web Development and will be programming a forum for our final project, which 
+    will probably also include a blog, wiki, and news section to make it feature rich. We will use HTML5, SQL, CSS(Most likely something
+     like Bootstrap), JavaScript and Java Servlets. This project will also make my knowledge of each of these technologies, in the Computer 
+     Aided Dispatch center I learned what I needed as I went. 
+    </p>
 	<!--This is the first draft. This page will contain links to all of my projects.-->
 
     </div></div>

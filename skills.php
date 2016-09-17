@@ -11,8 +11,9 @@
       </div></div>
     <div id="right"><div>
     <h1>Programming Languages</h1>
-    <p class="first"> The languages I currently know are C, Python, Java, Assembly, PHP, and HTML. I have
-    extremely minimal experience with C++, Lisp, and Smalltalk</p>
+    <p class="first"> The languages I currently know are C, Python, Java, Assembly (x86 and x64, AT&T syntax), PHP, and HTML. I have
+    extremely minimal experience with C++, Lisp, and Smalltalk but want to learn more about C++. I am currently taking a course that 
+    will cover Javascript, HTML5, CSS, Java Servlets, and JSP.</p>
 	<p class="first">
 	The language that I know the most about is C. I have taken 3 classes on strictly using C, 
 	and a fourth class where we used C a little bit but moved on to assembly. I enjoy writing
@@ -38,12 +39,14 @@
 	given a few days, I could catch up to speed and become much more experienced with it. I also have very limited experience with
 	HTML and PHP, this website and the one after it is aimed to teach me about both of them. I have very limited experience with SQL,
 	for a software engineering class my group made a website which used PHP, MySQL, and HTML/CSS</p>
+	<p class="first">
+	I have also taken or currently taking courses on Algorithms and Data Structures, Networking, Neural Networks, Computer Architecture, Principles of Programming Languages, Software Engineering, Formal Languages and Automata, Computer System Organization, Foundations of Computer Science, Systems Programming, and Internet and Web Programming. </p>
 	<h1>Other Skills</h1>
 	<p class="first">
 		I have experience with Microsoft Office products and LaTeX, and I would rather work in LaTeX due to the ease of
 		adding equations and mathematical entities, and the ACM format for LaTeX is very easy to work with. I have experience
 		with both Linux and Windows systems, I have extensively used Windows XP, Vista, 7, 8, 8.1, and 10. The Linux distros I 
-		have experience with are Fedora, Mint, and Ubuntu.
+		have experience with are Fedora, Mint, Ubuntu, and Arch. I am also proficient with Git.
 	</p>
     
     </div></div>
