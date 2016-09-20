@@ -22,7 +22,7 @@
     believed that if we trained a neural network with data of a player cheating and data of the same player not cheating
      in the online first person shooter Counter-Strike: Global Offensive we could tell whether they were cheating or not. We also
     included a high level player to see if that would throw off the network. I was the leader of the project, 
-    and the paper we wrote is still a work in progress and for reasons below will not be available here.
+    and the paper we wrote is still a work in progress but is available for review <a href="ann_fps_cheater.pdf"><font color="#8aacb8">here.
     <a href="https://www.youtube.com/watch?v=MYD6dMVE-fM"><font color="#8aacb8">Here</font></a> is a video
     of the training data. We have around 600
     kills for each set of data shown in the video, for a total of 2400 points of training data. 1200 was for a
@@ -36,10 +36,7 @@
     can upload their own demo and check to see if they were playing against a cheater or not. First we will have to
     find the fastest and most accurate network at classifying, however currently a majority of the time is taken in training and
     parsing the files so it might not make very much of a difference. Training will not be done on the website as it can take
-    up to 10 minutes to train with our limited data set.  As Counter-Strike:Global Offensive has a system
-    where players can review demos of cheaters and then decide whether the player is cheating or not and a player
-    can be banned based on the verdict the source code
-    and paper will not be available in it's current form as it contains everything to replicate what we did. 
+    up to 10 minutes to train with our limited data set. 
     If a player that does not know much about neural networks tries to replicate this so he can use it for that
     system it could provide false positives and innocent players may be banned.  </p>
     <h1>Computer Aided Dispatch Center</h1>
