@@ -11,7 +11,7 @@
       </div></div>
     <div id="right"><div>
 
-	A current link to my resume can be found <a href="kmaberry_resume.pdf" download="kmaberry_resume.pdf"><font color="#8aacb8">here</font></a>. Resume was last updated June 9th, 2016. New version coming soon.
+	A current link to my resume can be found <a href="kmaberry_resume.pdf" download="kmaberry_resume.pdf"><font color="#8aacb8">here</font></a>. Resume was last updated September 20th, 2016.
 
     </div></div>
 </body>
