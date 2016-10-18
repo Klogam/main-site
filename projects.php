@@ -15,7 +15,7 @@
     <a href="https://github.com/Klogam/main-site"><font color="#8aacb8">here.</font></a> This website is incredibly
     simple as it is just basic CSS and HTML. In the Fall 2016 sesmester I am registered to take a web programming class,
     so after or during that semester this website may improve. I am learning HTML and CSS as I go with this 
-    website,  with only minimal experience before this.  </p>
+    website,  with only minimal experience before this.  I plan on updating the source code to be more up to date with HTML5 standards, I have it mostly done I just need to finish writing a couple of things.</p>
     <h1>Detecting Cheaters with an Artifical Neural Network</h1>
 
     <p class="first">This project came from an end of the year project in my Neural Networks class. We
@@ -49,7 +49,7 @@
     <h1>Vulcan Tech Forums</h1>
     <p class="first"> I am currently taking a course on Web Development and will be programming a forum for our final project, which 
     will probably also include a blog, wiki, and news section to make it feature rich. We will use HTML5, SQL, CSS(Most likely something
-     like Bootstrap), JavaScript and Java Servlets. A link will be provided here once we finish or begin working.
+     like Bootstrap), JavaScript and Java Servlets. A link to the prototype can be found <a href="https://weave.cs.nmt.edu/apollo.5/prototype/index.html"><font color="#8aacb8">here.</font></a>
     </p>
 	<!--This is the first draft. This page will contain links to all of my projects.-->
 
