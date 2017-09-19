@@ -101,8 +101,9 @@ Principles of Programming Languages, and Software Engineering</td>
 			</ul>
 
 			<strong>Vulcan Tech Forums</strong><br />
-			<div class="redtext"><a href = "https://weave.cs.nmt.edu/apollo.5/vulcanforums/">Click here to visit the website</a></div>
+			<div class="redtext"><a href = "https://weave.cs.nmt.edu/apollo.5/vulcanforums/">Click here to visit the website</a></div> 
 			<ul>
+				<li>The SSL certificiate has expired, but as it is hosted by the CS department I am unable to fix.</li>
 				<li>Wrote a mostly working forum website</li>
 				<li>The week before it was due it was found out that the host server does not support GET links, a lot of features did not get implemented due to having to rewrite all links (Forums do not work very well with POST)</li>
 				<li>Used: Java, Javascript, MySQL, and CSS</li>
