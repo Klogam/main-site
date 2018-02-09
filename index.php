@@ -17,7 +17,7 @@
   <!-- todo, fix colors to recommended way to do colors-->
   <p><font color ="#dc3521">Computer Scientist </font><br >
   	<font color="#999999">806 Liles Street, Socorro NM, 87801 </font><br>
-  	505-399-0131 | kmaberry@cs.nmt.edu | kmaberry.me | klogam@github
+  	505-399-0131 | kmaberry@cs.nmt.edu | kmaberry.com | klogam@github
   	</p> 
 
 </div>
@@ -34,7 +34,7 @@
 			<div class="redtext">B.S in Computer Science <br /></div>
 			3.3/4.0 Overall GPA <br />
 			3.5/4.0 Major GPA <br />
-			Graduating December 2017 <br />
+			Graduated December 2017 <br />
 			<br />
 		</div>
 	</div>
